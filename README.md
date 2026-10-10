@@ -57,11 +57,5 @@ npm run dev
 
 Abra `front/login.html` no navegador.
 
-## 🗺️ Próximos passos
-
-- [ ] Ler o segredo do JWT do `.env` em vez de deixá-lo no código
-- [ ] Remover o `schema.prisma` duplicado em `src/prisma`
-- [ ] Deploy da API e do front
-
 ---
 Feito por [Luciano Machado](https://github.com/LucianoMachadoS) · [LinkedIn](https://www.linkedin.com/in/luciano-machado-9253a1265/)
